@@ -4,11 +4,17 @@ table, th, td {
     padding: 10px;
   }
   .name{
-font: size 24px;
+font-size: 24px;
 font-weight:bold;
 color: blueviolet;
   }
 .address {
   display: flex;
   flex-direction: row;
+  gap: 15px;
+}
+.hobby{
+  font-size: 24px;
+  font-weight: bold;
+  color: rgba(216, 112, 199, 0.921);
 }
